@@ -19,7 +19,7 @@ msgstr ""
 
 #: index.php:181
 msgid "not available"
-msgstr ""
+msgstr "není dostupný"
 
 #: index.php:223
 #, fuzzy
@@ -28,119 +28,119 @@ msgstr "Please enter URL"
 
 #: index.php:563
 msgid "You were disconnected!"
-msgstr ""
+msgstr "Byli jste odpojeni!"
 
 #: index.php:584
 msgid "Select screen section for display"
-msgstr ""
+msgstr "Vyberte část obrazovky pro zobrazení"
 
 #: index.php:694
 msgid "Toggle visibility"
-msgstr ""
+msgstr "Přepnout viditelnost"
 
 #: index.php:698
 msgid "Zoom in"
-msgstr ""
+msgstr "Přiblížit"
 
 #: index.php:699
 msgid "Zoom out"
-msgstr ""
+msgstr "Oddálit"
 
 #: index.php:700
 msgid "Rotate counterclockwise"
-msgstr ""
+msgstr "Otočet proti směru hodinových ručiček"
 
 #: index.php:701
-msgid "Rotate clockwise"
+msgid "Otáčet po směru hodinových ručiček"
 msgstr ""
 
 #: index.php:702
 msgid "Download this item"
-msgstr ""
+msgstr "Stáhněte si tuto položku"
 
 #: index.php:708
 msgid "Remove this item"
-msgstr ""
+msgstr "Odeberte tuto položku"
 
 #: index.php:719
 msgid "Jump to start"
-msgstr ""
+msgstr "Skoč na začátek"
 
 #: index.php:720
 msgid "Page up"
-msgstr ""
+msgstr "Stránka nahoru"
 
 #: index.php:721
 msgid "Page down"
-msgstr ""
+msgstr "O stránku dolů"
 
 #: index.php:722
 msgid "Jump to end"
-msgstr ""
+msgstr "Přejít na konec"
 
 #: index.php:726
 msgid "Up"
-msgstr ""
+msgstr "Nahoru"
 
 #: index.php:728
 msgid "Left"
-msgstr ""
+msgstr "Doleva"
 
 #: index.php:729
-msgid "Right"
+msgid "Doprava"
 msgstr ""
 
 #: index.php:731
 msgid "Down"
-msgstr ""
+msgstr "Dolů"
 
 # Greeting
 #: index.php:756
 msgid "Welcome"
-msgstr ""
+msgstr "Vítejte"
 
 #: index.php:758
 msgid "There is no shared content yet. Click below to get started!"
-msgstr ""
+msgstr "Zatím neexistuje žádný sdílený obsah. Začněte kliknutím níže!"
 
 # Index.php
 # Tabs and Subtabs
 #: index.php:762 index.php:1070 index.php:1226
 msgid "Add"
-msgstr ""
+msgstr "Přidejte"
 
 #: index.php:980
 msgid "Sorry! Screensharing for your device is currently not supported."
-msgstr ""
+msgstr "Promiňte! Sdílení obrazovky pro vaše zařízení není aktuálně podporováno."
 
 #: index.php:1071 index.php:1253
 msgid "Control"
-msgstr ""
+msgstr "Ovládání"
 
 #: index.php:1072 index.php:1274
 msgid "Extras"
-msgstr ""
+msgstr "Extras"
 
 #: index.php:1078
 msgid "File"
-msgstr ""
+msgstr "Soubor"
 
 #: index.php:1079
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: index.php:1080
 msgid "Screen"
-msgstr ""
+msgstr "Obrazovka"
 
 #: index.php:1087
 msgid "Drag and drop files or click here to upload."
-msgstr ""
+msgstr "Přetáhněte soubory nebo je nahrajte kliknutím sem."
 
 # Add Section
 #: index.php:1089
 msgid "Add file (click or drop here)"
-msgstr ""
+msgstr "Přidat soubor (sem klikněte nebo pusťte)"
 
 #: index.php:1108
 msgid "Add webpage"
